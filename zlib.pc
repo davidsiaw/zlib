@@ -1,4 +1,4 @@
-prefix=/usr/local
+prefix=/home/david/kubus/libs/sources/zlib/../build
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 sharedlibdir=${libdir}
